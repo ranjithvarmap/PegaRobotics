@@ -1,0 +1,8 @@
+<DeploymentManifest version="5.0">
+  <CompositeStudioProject name="CRMAdapter" fileName="CRMAdapter.dll" assemblyName="CRMAdapter.dll" id="Project-8D617F02C436761" version="8.0.1089.0" deploymentVersion="1.0" configuration="" createdWith="Build" obfuscated="False" runtime="True" digest="AB0531B3C0787327311A14EC8B23FB">
+    <Assemblies>
+      <Assembly value="CRMAdapter.dll" digest="C8CC8EDD4245D6ABF682E826FA637C" />
+      <Assembly value="CRMAdapter.pdb" digest="F47863EED94A47AE54256DE765F245" />
+    </Assemblies>
+  </CompositeStudioProject>
+</DeploymentManifest>
